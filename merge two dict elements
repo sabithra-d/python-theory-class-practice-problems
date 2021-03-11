@@ -1,0 +1,4 @@
+dict1={1:"sabithra",2:"kavin",3:"lithesh",4:"movika",5:"abisri"}
+dict2={1:"sabithra",7:"family"}
+dict1.update(dict2)
+print(dict1)
