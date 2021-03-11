@@ -1,0 +1,9 @@
+#method 1
+list=[45,23,12,97,57]
+list.sort()
+print("The smallest number of the list is",list[0])
+
+
+#method 2
+list=[4,5,2,8,9]
+print("The smallest number of the list is",min(list))
